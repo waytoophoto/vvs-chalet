@@ -1,0 +1,32 @@
+#: locale=fr
+
+## Media
+
+### Audio
+audiores_00E1E47F_0F53_F5AE_41AB_8DB5A867FDD4.mp3Url = media/audio_00EEC668_0F52_35D1_4183_190ED43CDA5B_fr.mp3
+audiores_00E1E47F_0F53_F5AE_41AB_8DB5A867FDD4.mp3Url = media/audio_00EEC668_0F52_35D1_4183_190ED43CDA5B_fr.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_03F41950_0F15_E1C0_419F_5C93B5A79FFC.label = Devanture
+panorama_02E240D6_0E97_BEF3_4171_F89997DAF857.label = Entrée
+
+## Skin
+
+### Button
+Button_1166EC2A_0F73_F556_41A3_C2093C1B62AF.label = EN
+Button_1684AC59_0F72_35F2_4161_85C03CBBB8E0.label = FR
+Button_1480CF39_0F73_F3B2_416E_CADEBB1EA30A.label = NL
+
+### Tooltip
+Button_1CCD0BD8_0F57_F2F1_4171_EF5632C396D5.toolTip = Activer/Désactiver le plein écran
+Button_1CCEEBD7_0F57_F2FF_419F_749ECFCF2676.toolTip = Activer/Désactiver le volume
+Button_1CCD1BD8_0F57_F2F1_4192_B9737FDA4954.toolTip = Afficher/Désafficher la liste des points de vues
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Chalêt à louer
