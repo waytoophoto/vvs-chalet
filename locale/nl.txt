@@ -25,14 +25,21 @@ panorama_1EF7E3F4_0FCA_FE79_417D_CB27B640DD1A.label = Salon
 ## Skin
 
 ### Button
-Button_1166EC2A_0F73_F556_41A3_C2093C1B62AF.label = EN
-Button_1684AC59_0F72_35F2_4161_85C03CBBB8E0.label = FR
-Button_1480CF39_0F73_F3B2_416E_CADEBB1EA30A.label = NL
+Button_0D9F6AF3_1524_75C4_419D_98EA9FAF8EDB.label = EN
+Button_0896ABA1_153C_7444_41AE_D4D1D09CF3D9.label = FR
+Button_0D0C30C5_1527_B5CF_41B1_966952A21715.label = NL
+
+### Image
+Image_017D7724_14FD_9C4C_4197_660B469787B2.url = skin/Image_017D7724_14FD_9C4C_4197_660B469787B2_fr.png
+Image_21651F26_156C_8C4C_41A5_5651912E60DA.url = skin/Image_21651F26_156C_8C4C_41A5_5651912E60DA_fr.png
+
+### Multiline Text
+HTMLText_017DC725_14FD_9C4C_41AD_1306A599938C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Oswald Regular;"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Oswald Regular;"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Oswald Regular;"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Oswald Regular;"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
 
 ### Tooltip
-Button_1CCD0BD8_0F57_F2F1_4171_EF5632C396D5.toolTip = Activer/Désactiver le plein écran
-Button_1CCEEBD7_0F57_F2FF_419F_749ECFCF2676.toolTip = Activer/Désactiver le volume
-Button_1CCD1BD8_0F57_F2F1_4192_B9737FDA4954.toolTip = Afficher/Désafficher la liste des points de vues
+Image_017D7724_14FD_9C4C_4197_660B469787B2.toolTip = Accedez à l'annonce sur booking.com
+Button_0B345824_152B_B44C_41B4_AA172F8F3499.toolTip = Activer/Désactiver le plein écran
+Button_08F64F06_152C_8C4C_41B2_D159E308B0EA.toolTip = Activer/Désactiver le volume
 
 ## Tour
 
