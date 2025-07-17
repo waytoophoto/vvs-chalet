@@ -53,4 +53,4 @@ Button_0D0C30C5_1527_B5CF_41B1_966952A21715.toolTip = Taal wijzigen: Nederlands
 ### Description
 
 ### Title
-tour.name = Siësta Chalet 
+tour.name = Siësta Chalet for rent
