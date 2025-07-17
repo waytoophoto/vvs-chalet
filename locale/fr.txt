@@ -1,0 +1,56 @@
+#: locale=fr
+
+## Action
+
+### URL
+LinkBehaviour_3DF0566C_156B_9CDC_4193_FA93F9FFE8CB.source = https://www.booking.com/
+
+## Media
+
+### Audio
+audiores_3A722EE0_18AF_2B3F_4183_029BD163EBBE.mp3Url = media/audio_38B76539_18B2_D901_41A7_0A51737BEE7F_fr.mp3
+audiores_3A722EE0_18AF_2B3F_4183_029BD163EBBE.mp3Url = media/audio_38B76539_18B2_D901_41A7_0A51737BEE7F_fr.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_03F82847_0FCE_030B_4185_423AC8A10FA8.label = Couloir
+panorama_0452FAA8_0FCA_0706_419D_D3300BD45D1A.label = Cuisine
+panorama_03F41950_0F15_E1C0_419F_5C93B5A79FFC.label = Devanture
+panorama_02E240D6_0E97_BEF3_4171_F89997DAF857.label = Entrée
+panorama_1EF1D805_0FCE_099B_4198_7138A35BEA4B.label = Entrée Chalet
+panorama_04357DD6_0FCA_1D0D_41A9_86CC1CBDE2E9.label = Entrée couloir
+panorama_0324AA16_0FCA_09A6_41AD_6FEAE31CC6CC.label = Grande chambre
+panorama_04B9EB3B_0FC6_057A_41AE_4EBAEEC48F1A.label = Jardin
+panorama_043468E3_0FCA_030B_41A6_B7B133DCD22D.label = Moyenne chambre
+panorama_03C78FB9_0FCA_06EB_415E_CA5E78E89528.label = Petite chambre
+panorama_03470B17_0FCE_050B_41A4_28ED32F09DBA.label = Salle de bain
+panorama_1EF7E3F4_0FCA_FE79_417D_CB27B640DD1A.label = Salon
+
+## Skin
+
+### Button
+Button_0D9F6AF3_1524_75C4_419D_98EA9FAF8EDB.label = EN
+Button_0896ABA1_153C_7444_41AE_D4D1D09CF3D9.label = FR
+Button_0D0C30C5_1527_B5CF_41B1_966952A21715.label = NL
+
+### Image
+Image_017D7724_14FD_9C4C_4197_660B469787B2.url = skin/Image_017D7724_14FD_9C4C_4197_660B469787B2_fr.png
+Image_21651F26_156C_8C4C_41A5_5651912E60DA.url = skin/Image_21651F26_156C_8C4C_41A5_5651912E60DA_fr.png
+
+### Tooltip
+Button_0D9F6AF3_1524_75C4_419D_98EA9FAF8EDB.toolTip = Change language: English
+Button_0896ABA1_153C_7444_41AE_D4D1D09CF3D9.toolTip = Changer la langue : Français
+IconButton_017E772A_14FD_9C44_41AE_FF95E578C00C.toolTip = Masquer le panneau d’informations
+Button_08F64F06_152C_8C4C_41B2_D159E308B0EA.toolTip = Mettre / Couper le son
+IconButton_017DD724_14FD_9C4C_4187_77D1C609EFAD.toolTip = Ouvrir le panneau d'informations
+Button_0B345824_152B_B44C_41B4_AA172F8F3499.toolTip = Plein écran / Quitter le plein écran
+Image_017D7724_14FD_9C4C_4197_660B469787B2.toolTip = Plus d’infos et réservation sur Booking.com
+Button_0D0C30C5_1527_B5CF_41B1_966952A21715.toolTip = Taal wijzigen: Nederlands
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Chalet Siësta
