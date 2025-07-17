@@ -25,7 +25,7 @@ panorama_1489AED0_1945_B9C4_41B3_58DE39F51033.label = Jardin
 panorama_043468E3_0FCA_030B_41A6_B7B133DCD22D.label = Moyenne chambre
 panorama_03C78FB9_0FCA_06EB_415E_CA5E78E89528.label = Petite chambre
 panorama_03470B17_0FCE_050B_41A4_28ED32F09DBA.label = Salle de bain
-panorama_1EF7E3F4_0FCA_FE79_417D_CB27B640DD1A.label = Salon
+panorama_17FBDB7E_1A42_9050_41AA_B29DEBE959CE.label = Salon
 
 ## Skin
 
