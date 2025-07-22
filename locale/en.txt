@@ -15,18 +15,18 @@ audiores_3A722EE0_18AF_2B3F_4183_029BD163EBBE.mp3Url = media/audio_38B76539_18B2
 ### Audio Subtitles
 
 ### Title
-panorama_20E72358_2D5F_7E7F_41C0_45C50361FFD1.label = Chambre d'amis
-panorama_3D53F5ED_336C_93E1_41C4_85D3AA1DB877.label = Chambre enfant
-panorama_3D3B8B41_330E_1DCF_4180_9F0DF306B50D.label = Chambre principale
-panorama_3C80AA72_32CD_B59D_41C2_0CEC7AE66F93.label = Couloir
-panorama_35349A7F_2382_09BA_41B8_9E143373ACBD.label = Cuisine
-panorama_20205A23_2E10_6117_41B3_F782CDFC462B.label = Début du couloir
-panorama_03F41950_0F15_E1C0_419F_5C93B5A79FFC.label = Front house
-panorama_3C11574D_323B_7552_41C1_B123DDF7308D.label = Hall d'entrée
-panorama_1489AED0_1945_B9C4_41B3_58DE39F51033.label = Jardin arrière
-panorama_02E240D6_0E97_BEF3_4171_F89997DAF857.label = Portal
-panorama_3CA250BA_324C_AA08_4195_1819D40DCCDA.label = Salle de bain
-panorama_17FBDB7E_1A42_9050_41AA_B29DEBE959CE.label = Salon
+panorama_20E72358_2D5F_7E7F_41C0_45C50361FFD1.label = Guest room
+panorama_3D53F5ED_336C_93E1_41C4_85D3AA1DB877.label = Child’s bedroom
+panorama_3D3B8B41_330E_1DCF_4180_9F0DF306B50D.label = Main bedroom
+panorama_3C80AA72_32CD_B59D_41C2_0CEC7AE66F93.label = Hallway
+panorama_35349A7F_2382_09BA_41B8_9E143373ACBD.label = Kitchen
+panorama_20205A23_2E10_6117_41B3_F782CDFC462B.label = Start of hallway
+panorama_03F41950_0F15_E1C0_419F_5C93B5A79FFC.label = Chalet front
+panorama_3C11574D_323B_7552_41C1_B123DDF7308D.label = Entrance hall
+panorama_1489AED0_1945_B9C4_41B3_58DE39F51033.label = Backyard
+panorama_02E240D6_0E97_BEF3_4171_F89997DAF857.label = Gate
+panorama_3CA250BA_324C_AA08_4195_1819D40DCCDA.label = Bathroom
+panorama_17FBDB7E_1A42_9050_41AA_B29DEBE959CE.label = Living room
 
 ## Skin
 
